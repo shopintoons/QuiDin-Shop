@@ -2,9 +2,9 @@
 const products = [
     {
         id: 1,
-        name: "Tapis de Prière Épais Premium",
+        name: "tapis de priere interactif",
         price: 24.99,
-        image: "https://images.unsplash.com/photo-1584551246679-0daf3d275d0f?w=400"
+        image: "images/tapis de priere interactif.png"
     },
     {
         id: 2,
