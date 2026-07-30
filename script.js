@@ -8,21 +8,21 @@ const products = [
     },
     {
         id: 2,
-        name: "Chapelet / Tasbih en Bois Noble",
+        name: "Chapelet / Coran",
         price: 9.99,
-        image: "https://images.unsplash.com/photo-1609599006353-e629aaabfeae?w=400"
+        image: "images/coran tapis.png"
     },
     {
         id: 3,
-        name: "Jeu de Cartes Quiz Islamique",
+        name: "invocation quotidienne",
         price: 14.99,
-        image: "https://images.unsplash.com/photo-1610890716171-6b1bb98ffd09?w=400"
+        image: "images/invocation quotidienne.png"
     },
     {
         id: 4,
-        name: "Support de Coran en Bois Sculpté",
+        name: "mes premieres sourates",
         price: 19.99,
-        image: "https://images.unsplash.com/photo-1585036156171-384164a8c675?w=400"
+        image: "images/mes premieres sourates.png"
     }
 ];
 
